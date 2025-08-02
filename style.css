@@ -10,6 +10,23 @@ body {
     margin: 0;
 }
 
+.top-ad-banner,
+.bottom-ad-banner {
+    margin: 20px 0;
+}
+
+.main-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.side-ad {
+    width: 160px; /* Width of the side ad */
+    margin: 0 20px;
+}
+
 .container {
     background-color: #333333; /* Lighter grey rectangle */
     padding: 2rem;
