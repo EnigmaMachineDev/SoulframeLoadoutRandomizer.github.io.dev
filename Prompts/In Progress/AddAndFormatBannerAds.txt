@@ -17,3 +17,8 @@ Here is the code for the side banner ads:
 <script type="text/javascript" src="//www.highperformanceformat.com/16437c311e6ec7df63fa476108684215/invoke.js"></script>
 
 Please add these side banner ads to the sides of the app away from the container, keeping in mind not to make it feel cramped.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+They still feel a little close to the center content. Please space them away from the content about double the distance they are at the moment. 
+Also move the side ads down a bit to make them feel more centered.

@@ -18,13 +18,13 @@ body {
 .main-wrapper {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     width: 100%;
 }
 
 .side-ad {
     width: 160px; /* Width of the side ad */
-    margin: 0 20px;
+    margin: 0 40px;
 }
 
 .container {
